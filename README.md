@@ -1,2 +1,2 @@
-Dataset:
+Competition:
 https://www.kaggle.com/competitions/journey-springfield

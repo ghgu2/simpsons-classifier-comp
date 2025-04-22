@@ -1,4 +1,4 @@
-# 🟨 Simpsons Character Classification 🟦
+![image](https://github.com/user-attachments/assets/fa8d4a69-7966-4901-acad-5b3d74b2b5bf)# 🟨 Simpsons Character Classification 🟦
 
 Классификация персонажей из мультсериала *The Simpsons* по изображениям с использованием нейросетевых моделей. Competition: https://www.kaggle.com/competitions/journey-springfield
 
@@ -14,6 +14,8 @@
 - pandas, numpy
 - tqdm, matplotlib
 
-🏆 Результаты
+## 🏆 Результаты
 На тестовом наборе достигается точность F1-Score = 97.024%.
-(Добавьте графики и метрики, если есть.)
+![image](https://github.com/user-attachments/assets/9eb02221-fe48-4472-a182-0092d0207d81)
+
+

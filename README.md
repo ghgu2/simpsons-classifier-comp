@@ -16,6 +16,6 @@
 
 ## 🏆 Результаты
 На тестовом наборе достигается точность F1-Score = 97.024%.
-![image](https://github.com/user-attachments/assets/9eb02221-fe48-4472-a182-0092d0207d81)
+![image](https://github.com/user-attachments/assets/4afdb144-035a-4f66-a5b6-4d11db221d58)
 
 
